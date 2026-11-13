@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price,stock_quantity,supplier
+201,Laptop,Electronics,500.0,25,TechWorld
+202,Mobile,Electronics,1200.0,40,DigitalStore
+203,Keyboard,Accessories,300.0,60,CompuMart
+204,Monitor,Electronics,2000.0,15,ScreenHub
+205,Mouse,Accessories,800.0,50,CompuMart
+206,Printer,Electronics,3500.0,10,PrintZone
+207,Headphones,Accessories,1500.0,30,SoundStore
+208,Tablet,Electronics,2500.0,20,DigitalStore
